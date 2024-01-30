@@ -1,5 +1,12 @@
 # Accessing Web Resources with Python
 
+## How to Run
+Put the following in your requirements.txt file
+```
+requests
+beautifulsoup4
+```
+
 ## Lessons Learned
 
 - How to scrape information from website
