@@ -6,7 +6,6 @@ Put the following in your requirements.txt file
 requests
 beautifulsoup4
 ```
-
 Open Jupyter Notebook and run the following commands:
 ```    
 !pip install -r requirements.txt
@@ -29,7 +28,6 @@ Part 2: Scraping the detail page
 - Function to get weather information
 - Function to scrape event details (including location and weather lookup)
 - Write data to CSV
-
 ## Lessons Learned
 
 - How to scrape information from website
