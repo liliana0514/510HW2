@@ -3,7 +3,8 @@ Accessing Web Resources with Python
 
 ## Overview
 Hi! This is the repository for TECHIN 510 Lab 2.  
-This code allows you to scrape https://visitseattle.org for events happening in Seattle. Includein 'Events Name', 'Date', 'Location', 'Type', 'Region', 'Latitude', 'Longitude and 'Weather'.
+This code allows you to scrape https://visitseattle.org for events happening in Seattle.  
+Including 'Events Name', 'Date', 'Location', 'Type', 'Region', 'Latitude', 'Longitude and 'Weather'.
 
 ## How to Run
 Put the following in your requirements.txt file
